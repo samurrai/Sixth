@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Sixth\Sixth\bin\Debug\Sixth.exe.config
+C:\Users\User\source\repos\Sixth\Sixth\bin\Debug\Sixth.exe
+C:\Users\User\source\repos\Sixth\Sixth\bin\Debug\Sixth.pdb
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\Sixth.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\Sixth_MarkupCompile.cache
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\Sixth_MarkupCompile.lref
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\Sixth.g.resources
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\Sixth.Properties.Resources.resources
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\Sixth.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\Sixth.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\Sixth.exe
+C:\Users\User\source\repos\Sixth\Sixth\obj\Debug\Sixth.pdb
