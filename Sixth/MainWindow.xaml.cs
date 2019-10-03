@@ -76,10 +76,10 @@ namespace Sixth
             MessageBox.Show(productsString);
         }
 
-        private void OpenInConsole(object sender, RoutedEventArgs e)
+        private void OpenInConsole(object sender, RoutedEventArgs e) // кнопка запуска приложения в консоли
         {
-            Close();
-            Process.Start("Console.exe");
+            Close(); // закрыть текущее окно
+            Process.Start("Console.exe"); // запустить процесс Console.exe, который идет как отдельное консольное приложение
         }
     }
 }
